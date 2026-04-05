@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# IDE state
+.idea/
+
+# Editor temp files
+*.swp
+*~
