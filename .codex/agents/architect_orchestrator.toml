@@ -21,7 +21,7 @@ developer_instructions = """
 - guardian 계열은 기본적으로 read-heavy 역할로 유지한다.
 - `architecture_reviewer`는 감사자이며 결정권자가 아니다. reviewer의 역할을 대신하지 않는다.
 - agent depth는 보수적으로 유지한다. 재위임은 명확한 이점이 있을 때만 허용한다.
-- 지속적으로 지켜야 할 규칙은 항상 루트 `AGENTS.md`를 우선 참조한다.
+- 대상 프로젝트에 `AGENTS.md`가 있으면 그 규칙을 우선 참조한다.
 
 출력 기대:
 - 구현 전: 탐색 결과와 병렬 분석 계획
